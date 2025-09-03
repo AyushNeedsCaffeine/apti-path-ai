@@ -26,6 +26,9 @@ export default {
 			boxShadow: {
 				'career': 'var(--shadow-career)',
 				'career-card': 'var(--shadow-card)',
+				'glow-primary': 'var(--glow-primary)',
+				'glow-secondary': 'var(--glow-secondary)',
+				'glow-accent': 'var(--glow-accent)',
 			},
 			transitionTimingFunction: {
 				'smooth': 'var(--transition-smooth)',
